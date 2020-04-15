@@ -1,6 +1,14 @@
 .p{
+<<<<<<< HEAD
   color:blue;
 }
 .ul{
   color: inherit;
+=======
+color:35
+>>>>>>> 9de853ace2e2ceec3234ed8751e23273119f6c0e
 }
+ol{
+  color: red;
+}
+
